@@ -62,3 +62,6 @@ $ python manage.py runserver
 requirements.txt
 
 - 파이썬 라이브러리 종속성 파일
+
+## 프로젝트 소개 파일
+[프로젝트 소개 파일 바로가기](https://drive.google.com/drive/folders/1QHdEqfTIXqZDt-TNg_m9qSWtqOZPF4p2?usp=sharing)
